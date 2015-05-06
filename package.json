@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
   "main": "prism.js",
+  "homepage": "http://prismjs.com/",
+  "bugs": {
+    "url": "https://github.com/PrismJS/prism/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +16,8 @@
   },
   "keywords": [
     "prism",
-    "highlight"
+    "highlight",
+    "syntax"
   ],
   "author": "Lea Verou",
   "license": "MIT",
